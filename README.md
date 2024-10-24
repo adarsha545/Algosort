@@ -4,3 +4,9 @@
 
 | [Live hosted in Vercel](https://algosort-7p23bx43k-adarsha-ghoshs-projects.vercel.app/) |
 | --- |
+
+### How to Start
+
+```go
+npm start
+```
